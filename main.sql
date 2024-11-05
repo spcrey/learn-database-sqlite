@@ -1,6 +1,6 @@
 SELECT 'Hello, SQL!' AS MESSAGE;
 
--- table: create
+-- table : create
 
 CREATE TABLE IF NOT EXISTS `Department`(
     `id` int
